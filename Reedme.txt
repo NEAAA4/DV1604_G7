@@ -6,20 +6,12 @@ Discussion
 A brief discussion of the results obtained in the proposed analysis, summarizing the gathered evidence, and offering an explanation of what those 
 results mean. An explicit acceptance or rejection of the proposed hypothesis based, exclusively, on the results obtained in the data analysis. 
 
-Våra resultat är att det är väldigt spritt hur mycket man dricker beroende på vart man bor i världen. 
-Men det finns en koppling mellan glädjenivån och olika slags alkohol. Vi la in HDI för varje land, 
-source Wikipedia om vilka länder som har högt eller lågt värde.  Sedan har HDI - Human development index, något med detta att göra. 
-(Lägga in sedan när vi har resultat på det)
-
-Genom att kolla på resultaten så vet vi att de länder som lyckads bra även utan alkohol är dessa följande:
-Sedan är det dessa länder : som är väldigt glada med alkohol. 
-
-
+-Our results show a varied amount of alcohol consumption within the different countries. But there is a connection between happiness score and the 
+different types of alcohol. We added in the HDI, Human Development Index, to see which countries are classified as development or industrial.
 
 Conclusion 
 A conclusion providing a final answer to the proposed research question. 
 
-
-- Vår conclusion är att läderna som destu mer man dricker har inte nödvänligt någon possitiv inverkan på ländernas glädje. 
-Det som dricker minst, har en bra happniess score. framförallt så är det mindre glädje i länderna där det dricks mycket öl. 
-De som dricker vin är oftast glada länder. Så genom att vara gladare, dricker man vin för att troligtivs må lite bättre. 
+-Our conclusion is that higher alcohol consumption does not necessarily have a positive effect on the country's happiness score.
+Those who drink less have a good happiness score.
+Overall there is a lower score in the countries where beer is consumed the most, whereas those who drink more wine have a higher score.
