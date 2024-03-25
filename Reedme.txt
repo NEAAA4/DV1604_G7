@@ -1,7 +1,7 @@
-Students: Anton Wall, Linnea Conradson Sjöberg and Flynn Madsen
-Group 7
+"""Students: Anton Wall, Linnea Conradson Sjöberg and Flynn Madsen
+Group 7"""
 
-Discussion 
+# Discussion 
 
 A brief discussion of the results obtained in the proposed analysis, summarizing the gathered evidence, and offering an explanation of what those 
 results mean. An explicit acceptance or rejection of the proposed hypothesis based, exclusively, on the results obtained in the data analysis. 
@@ -9,9 +9,18 @@ results mean. An explicit acceptance or rejection of the proposed hypothesis bas
 -Our results show a varied amount of alcohol consumption within the different countries. But there is a connection between happiness score and the 
 different types of alcohol. We added in the HDI, Human Development Index, to see which countries are classified as development or industrial.
 
-Conclusion 
+# Conclusion 
 A conclusion providing a final answer to the proposed research question. 
 
 -Our conclusion is that higher alcohol consumption does not necessarily have a positive effect on the country's happiness score.
 Those who drink less have a good happiness score.
 Overall there is a lower score in the countries where beer is consumed the most, whereas those who drink more wine have a higher score.
+
+
+
+
+You can implement: Correlation Analysis (for example, Pearson correlation): To examine the strength and direction of the relationship between happiness scores and alcohol consumption, as well as between happiness scores and HDI; 
+
+ANOVA (Analysis of Variance): If you have categorized countries into groups based on their HDI (developed or industrial), ANOVA can be used to compare the happiness scores across these groups. 
+
+Kolla igenom ifall 
